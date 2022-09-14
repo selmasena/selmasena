@@ -3,8 +3,7 @@
 ---
 
 # <p align=center> **_Hello!_** <img src="https://user-images.githubusercontent.com/108355953/190001623-cb78c2de-77dd-4195-9c5f-7117dc027092.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> </p>
-#### <p align=center> I'm Selma. I am studying computer programming. <img src="https://user-images.githubusercontent.com/108355953/190112884-6413e7b8-f427-4da2-935b-8d2a8f9add39.png" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  </p>
-
+#### <p align=center> I'm Selma. I am studying computer programming. <img src="https://user-images.githubusercontent.com/108355953/190112884-6413e7b8-f427-4da2-935b-8d2a8f9add39.png" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> </p>
 
 ## Back-End
 ![image](https://user-images.githubusercontent.com/108355953/189974093-b09910c2-6bc6-4a2c-8d67-110e25864e7a.png)
@@ -29,12 +28,11 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## :zap: GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selmasena&theme=default&show_icons=true) 
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=selmasena&theme=default&show_icons=true) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=selmasena"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selmasena&layout=compact"/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selmasena&show_icons=true&locale=en&layout=compact" alt="selmasena" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selmasena" alt="selmasena" /></a> </p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selmasena&layout=compact"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selmasena&label=Profile%20views&color=0e75b6&style=flat" alt="selmasena" /> </p>
+---
 
-
-
+## <p align=center> :pushpin: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) :pushpin: <br> <br> <img src="https://komarev.com/ghpvc/?username=selmasena&label=Profile%20views&color=0e75b6&style=flat" alt="selmasena" /> ![GitHub followers](https://img.shields.io/github/followers/selmasena?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/selmasena?style=social)
+</p></p> 
