@@ -7,7 +7,6 @@
 
 ## Back-End
 ![image](https://user-images.githubusercontent.com/108355953/189974093-b09910c2-6bc6-4a2c-8d67-110e25864e7a.png)
-![image](https://user-images.githubusercontent.com/108355953/189972686-ae69c466-3116-4257-a10d-9cda09692934.png)
 ![csharp_original_logo_icon_146578](https://user-images.githubusercontent.com/108355953/189984730-ad53a45d-b98c-42a8-8285-c6c2a0af4a00.png)
 
 ## Front-End
